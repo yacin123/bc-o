@@ -1,1 +1,1 @@
-worker: node link.js
+worker: node bc.js
